@@ -1,0 +1,775 @@
+bugs_v2/smallest_15cb07a7_007/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 195
+scnd.value < frst.value && scnd.value < thrd.value
+scnd.value < frth.value
+replace
+Total Candidate Patches: 299
+Correct Patch Rank: 215
+Correct Patch Generated!
+File no 216
+frst.value < scnd.value && frst.value < thrd.value
+frst.value < frth.value
+replace
+Total Candidate Patches: 299
+Correct Patch Rank: 236
+Correct Patch Generated!
+File no 252
+scnd.value < frst.value && scnd.value < thrd.value && scnd.value < frth.value
+scnd.value < frth.value
+replace
+Total Candidate Patches: 299
+Correct Patch Rank: 272
+Correct Patch Generated!
+File no 261
+frst.value < scnd.value && frst.value < thrd.value && frst.value < frth.value
+frst.value < frth.value
+replace
+Total Candidate Patches: 299
+Correct Patch Rank: 281
+299 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_36d8008b_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 337
+b.value < a.value && b.value < c.value && b.value < d.value
+b.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 360
+Correct Patch Generated!
+File no 399
+a.value < b.value && a.value < c.value && a.value < d.value
+a.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 422
+Correct Patch Generated!
+File no 407
+b.value < a.value && b.value < c.value
+b.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 430
+Correct Patch Generated!
+File no 410
+a.value < b.value && a.value < c.value
+a.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 433
+470 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_f8d57dea_000/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 263
+v1.value < v2.value && v1.value < v3.value && v1.value < v4.value
+v1.value < v4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 284
+Correct Patch Generated!
+File no 271
+v2.value < v1.value && v2.value < v3.value
+v2.value < v4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 292
+Correct Patch Generated!
+File no 274
+v1.value < v2.value && v1.value < v3.value
+v1.value < v4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 295
+Correct Patch Generated!
+File no 288
+v2.value < v1.value && v2.value < v3.value && v2.value < v4.value
+v2.value < v4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 309
+327 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_68eb0bb0_000/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 287
+b.value < a.value && b.value < c.value && b.value < d.value
+b.value < d.value
+replace
+Total Candidate Patches: 383
+Correct Patch Rank: 310
+Correct Patch Generated!
+File no 335
+a.value < b.value && a.value < c.value && a.value < d.value
+a.value < d.value
+replace
+Total Candidate Patches: 383
+Correct Patch Rank: 358
+Correct Patch Generated!
+File no 343
+b.value < a.value && b.value < c.value
+b.value < d.value
+replace
+Total Candidate Patches: 383
+Correct Patch Rank: 366
+Correct Patch Generated!
+File no 346
+a.value < b.value && a.value < c.value
+a.value < d.value
+replace
+Total Candidate Patches: 383
+Correct Patch Rank: 369
+383 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_dedc2a7c_000/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 259
+(a.value < b.value) && (a.value < c.value) && (a.value < d.value)
+(a.value < d.value)
+replace
+Total Candidate Patches: 345
+Correct Patch Rank: 278
+Correct Patch Generated!
+File no 272
+(a.value < b.value) && (a.value < c.value) && (a.value < d.value)
+a.value < d.value
+replace
+Total Candidate Patches: 345
+Correct Patch Rank: 291
+Correct Patch Generated!
+File no 297
+(b.value < a.value) && (b.value < c.value) && (b.value < d.value)
+(b.value < d.value)
+replace
+Total Candidate Patches: 345
+Correct Patch Rank: 316
+Correct Patch Generated!
+File no 308
+(b.value < a.value) && (b.value < c.value) && (b.value < d.value)
+b.value < d.value
+replace
+Total Candidate Patches: 345
+Correct Patch Rank: 327
+345 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/grade_b1924d63_001/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+18 Test cases ready!
+Correct Patch Generated!
+File no 177
+score.value > a.value
+score.value >= b.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 195
+Correct Patch Generated!
+File no 178
+score.value > a.value
+score.value >= c.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 196
+Correct Patch Generated!
+File no 179
+score.value > a.value
+score.value >= d.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 197
+Correct Patch Generated!
+File no 201
+score.value > a.value
+(score.value >= b.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 219
+Correct Patch Generated!
+File no 202
+score.value > a.value
+(score.value >= c.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 220
+Correct Patch Generated!
+File no 203
+score.value > a.value
+(score.value >= d.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 221
+Correct Patch Generated!
+File no 209
+(score.value >= b.value) && (score.value > a.value)
+(score.value >= b.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 227
+Correct Patch Generated!
+File no 219
+(score.value >= b.value) && (score.value > a.value)
+score.value >= b.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 237
+Correct Patch Generated!
+File no 257
+a.value
+c.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 275
+Correct Patch Generated!
+File no 258
+a.value
+d.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 276
+385 Patches Generated
+10 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_ea67b841_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 301
+(a.value < b.value) && (a.value < c.value) && (a.value < d.value)
+(a.value < d.value)
+replace
+Total Candidate Patches: 424
+Correct Patch Rank: 320
+Correct Patch Generated!
+File no 314
+(a.value < b.value) && (a.value < c.value) && (a.value < d.value)
+a.value < d.value
+replace
+Total Candidate Patches: 424
+Correct Patch Rank: 333
+Correct Patch Generated!
+File no 353
+(b.value < a.value) && (b.value < c.value) && (b.value < d.value)
+(b.value < d.value)
+replace
+Total Candidate Patches: 424
+Correct Patch Rank: 372
+Correct Patch Generated!
+File no 364
+(b.value < a.value) && (b.value < c.value) && (b.value < d.value)
+b.value < d.value
+replace
+Total Candidate Patches: 424
+Correct Patch Rank: 383
+424 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/median_89b1a701_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 62
+b.value
+a.value
+replace
+Total Candidate Patches: 154
+Correct Patch Rank: 73
+154 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_818f8cf4_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 280
+num1.value
+num4.value
+replace
+Total Candidate Patches: 561
+Correct Patch Rank: 297
+Correct Patch Generated!
+File no 345
+num_smallest.value
+num4.value
+replace
+Total Candidate Patches: 561
+Correct Patch Rank: 366
+561 Patches Generated
+2 Correct Patches Found
+
+
+
+
+bugs_v2/digits_d5059e2b_000/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 109
+num.value
+digit.value
+replace
+Total Candidate Patches: 155
+Correct Patch Rank: 116
+Correct Patch Generated!
+File no 111
+Math.abs(num.value) % 10
+(num.value - digit.value) / 10
+replace
+Total Candidate Patches: 155
+Correct Patch Rank: 118
+Correct Patch Generated!
+File no 137
+num.value
+(num.value - digit.value) / 10
+replace
+Total Candidate Patches: 155
+Correct Patch Rank: 144
+Correct Patch Generated!
+File no 138
+Math.abs(num.value) % 10
+digit.value
+replace
+Total Candidate Patches: 155
+Correct Patch Rank: 145
+155 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/median_0cdfa335_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 155
+median.value
+b.value
+replace
+Total Candidate Patches: 273
+Correct Patch Rank: 176
+Correct Patch Generated!
+File no 156
+median.value
+c.value
+replace
+Total Candidate Patches: 273
+Correct Patch Rank: 177
+273 Patches Generated
+2 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_97f6b152_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 259
+num2.value < num1.value && num2.value < num3.value
+num2.value < num4.value
+replace
+Total Candidate Patches: 374
+Correct Patch Rank: 279
+Correct Patch Generated!
+File no 278
+num1.value < num2.value && num1.value < num3.value
+num1.value < num4.value
+replace
+Total Candidate Patches: 374
+Correct Patch Rank: 298
+Correct Patch Generated!
+File no 304
+num2.value < num1.value && num2.value < num3.value && num2.value < num4.value
+num2.value < num4.value
+replace
+Total Candidate Patches: 374
+Correct Patch Rank: 324
+Correct Patch Generated!
+File no 313
+num1.value < num2.value && num1.value < num3.value && num1.value < num4.value
+num1.value < num4.value
+replace
+Total Candidate Patches: 374
+Correct Patch Rank: 333
+374 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/median_89b1a701_007/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 77
+b.value
+a.value
+replace
+Total Candidate Patches: 190
+Correct Patch Rank: 88
+190 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs_v2/median_fe9d5fb9_002/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 96
+num2.value
+num1.value
+replace
+Total Candidate Patches: 230
+Correct Patch Rank: 100
+230 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs_v2/median_fe9d5fb9_000/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 101
+num2.value
+num1.value
+replace
+Total Candidate Patches: 230
+Correct Patch Rank: 105
+230 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_3b2376ab_008/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 263
+n1.value < n2.value && n1.value < n3.value && n1.value < n4.value
+n1.value < n4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 284
+Correct Patch Generated!
+File no 271
+n2.value < n1.value && n2.value < n3.value
+n2.value < n4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 292
+Correct Patch Generated!
+File no 274
+n1.value < n2.value && n1.value < n3.value
+n1.value < n4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 295
+Correct Patch Generated!
+File no 288
+n2.value < n1.value && n2.value < n3.value && n2.value < n4.value
+n2.value < n4.value
+replace
+Total Candidate Patches: 327
+Correct Patch Rank: 309
+327 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/grade_b1924d63_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+18 Test cases ready!
+Correct Patch Generated!
+File no 177
+score.value > a.value
+score.value >= b.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 195
+Correct Patch Generated!
+File no 178
+score.value > a.value
+score.value >= c.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 196
+Correct Patch Generated!
+File no 179
+score.value > a.value
+score.value >= d.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 197
+Correct Patch Generated!
+File no 201
+score.value > a.value
+(score.value >= b.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 219
+Correct Patch Generated!
+File no 202
+score.value > a.value
+(score.value >= c.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 220
+Correct Patch Generated!
+File no 203
+score.value > a.value
+(score.value >= d.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 221
+Correct Patch Generated!
+File no 209
+(score.value >= b.value) && (score.value > a.value)
+(score.value >= b.value)
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 227
+Correct Patch Generated!
+File no 219
+(score.value >= b.value) && (score.value > a.value)
+score.value >= b.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 237
+Correct Patch Generated!
+File no 257
+a.value
+c.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 275
+Correct Patch Generated!
+File no 258
+a.value
+d.value
+replace
+Total Candidate Patches: 385
+Correct Patch Rank: 276
+385 Patches Generated
+10 Correct Patches Found
+
+
+
+
+bugs_v2/smallest_48b82975_001/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 337
+b.value < a.value && b.value < c.value && b.value < d.value
+b.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 360
+Correct Patch Generated!
+File no 399
+a.value < b.value && a.value < c.value && a.value < d.value
+a.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 422
+Correct Patch Generated!
+File no 407
+b.value < a.value && b.value < c.value
+b.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 430
+Correct Patch Generated!
+File no 410
+a.value < b.value && a.value < c.value
+a.value < d.value
+replace
+Total Candidate Patches: 470
+Correct Patch Rank: 433
+470 Patches Generated
+4 Correct Patches Found
+
+
+
+
+bugs_v2/grade_1b31fa5c_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+18 Test cases ready!
+Correct Patch Generated!
+File no 138
+D.value
+C.value
+replace
+Total Candidate Patches: 246
+Correct Patch Rank: 152
+246 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs_v2/median_89b1a701_010/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+13 Test cases ready!
+Correct Patch Generated!
+File no 105
+b.value
+a.value
+replace
+Total Candidate Patches: 629
+Correct Patch Rank: 110
+Correct Patch Generated!
+File no 417
+a.value == b.value || a.value == c.value
+(a.value >= b.value && a.value <= c.value) || (a.value >= c.value && a.value <= b.value)
+replace
+Total Candidate Patches: 629
+Correct Patch Rank: 435
+Correct Patch Generated!
+File no 572
+a.value == b.value
+(a.value >= b.value && a.value <= c.value) || (a.value >= c.value && a.value <= b.value)
+replace
+Total Candidate Patches: 629
+Correct Patch Rank: 590
+Correct Patch Generated!
+File no 573
+a.value == c.value
+(a.value >= b.value && a.value <= c.value) || (a.value >= c.value && a.value <= b.value)
+replace
+Total Candidate Patches: 629
+Correct Patch Rank: 591
+Correct Patch Generated!
+File no 593
+m.value=b.value
+m.value=a.value
+replace
+Total Candidate Patches: 629
+Correct Patch Rank: 611
+629 Patches Generated
+5 Correct Patches Found
+
+
+
+bugs2_v2/digits_c9d718f3_001/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 132
+value.value
+digit.value
+replace
+Total Candidate Patches: 157
+Correct Patch Rank: 139
+157 Patches Generated
+1 Correct Patches Found
+
+
+
+
+bugs2_v2/digits_6e464f2b_003/
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+16 Test cases ready!
+Correct Patch Generated!
+File no 102
+n.value == 0
+i.value != 0
+replace
+Total Candidate Patches: 189
+Correct Patch Rank: 112
+189 Patches Generated
+1 Correct Patches Found
+
+
+
+
+The End!
+
